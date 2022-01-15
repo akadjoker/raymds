@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1627802711 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/main.cpp
+	"MD2.h"
+	"rImgui.h"
+
+1605080468 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/imgui.cpp
+	"imgui.h"
+	"imgui_internal.h"
+	<ctype.h>
+	<stdio.h>
+	<stddef.h>
+	<stdint.h>
+	<Windows.h>
+	<windows.h>
+	<TargetConditionals.h>
+	"stb_sprintf.h"
+	<Carbon/Carbon.h>
+	<imm.h>
+	"imgui_user.inl"
+
+1605080468 /media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/imgui.h
+	"imconfig.h"
+	<float.h>
+	<stdarg.h>
+	<stddef.h>
+	<string.h>
+	<assert.h>
+	<stdint.h>
+	"imgui_user.h"
+
+1605080468 /media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/imconfig.h
+
+1605080468 /media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/imgui_internal.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	"imstb_textedit.h"
+
+1605080468 /media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/imstb_textedit.h
+	<string.h>
+
+1605080468 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/imgui_draw.cpp
+	"imgui.h"
+	"imgui_internal.h"
+	<stdio.h>
+	<alloca.h>
+	<malloc.h>
+	<stdlib.h>
+	"imstb_rectpack.h"
+	"imstb_truetype.h"
+
+1605080468 /media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/imstb_rectpack.h
+	<stdlib.h>
+	<assert.h>
+
+1605080468 /media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/imstb_truetype.h
+	"stb_truetype.h"
+	<stdio.h>
+	"stb_truetype.h"
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<math.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	<string.h>
+
+1605080468 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/imgui_widgets.cpp
+	"imgui.h"
+	"imgui_internal.h"
+	<ctype.h>
+	<stddef.h>
+	<stdint.h>
+	"imstb_textedit.h"
+
+1627723300 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/rImgui.cpp
+	"rImgui.h"
+	<stdint.h>
+
+1627723144 /media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/rImgui.h
+	"raylib.h"
+	"rlgl.h"
+	"imgui.h"
+
+1618570342 /media/djoker/code/local/user/include/raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1618570342 /media/djoker/code/local/user/include/rlgl.h
+	"raylib.h"
+	"raymath.h"
+	"config.h"
+	"raymath.h"
+	<stdlib.h>
+	<string.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	"glad.h"
+	"external/glad.h"
+	<EGL/egl.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+
+1618570342 /media/djoker/code/local/user/include/raymath.h
+	"raylib.h"
+	<math.h>
+
+1627806077 /media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/MD2.h
+	<ctime>
+	<algorithm>
+	<cmath>
+	<cstring>
+	<vector>
+	<sstream>
+	<queue>
+	<map>
+	<set>
+	"raylib.h"
+
+1627807554 source:/media/djoker/code/linux/cpp/raylib/rayprojects/raymd2/src/MD2.cpp
+	"MD2.h"
+	"rlgl.h"
+
